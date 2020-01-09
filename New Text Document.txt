@@ -1,0 +1,7 @@
+results: 
+
+SVM : 97  -  95
+Random Forest : 93  - 86
+KNN : 88 - 83
+Decision Tree : 86 - 79
+Logistic Regression : 96  - 93
